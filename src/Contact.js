@@ -21,7 +21,7 @@ const Contact = () => {
               </ListGroup.Item>
               <ListGroup.Item>
                 <FontAwesomeIcon icon={faTelegram} />
-                +250 788 7781
+                +250 788 317 781
               </ListGroup.Item>
               <ListGroup.Item>
                 <FontAwesomeIcon icon={faWhatsapp} />

@@ -19,7 +19,7 @@ const Portifolio = () => {
       <div>
         {/* Projects will be added here */}
         <h3 className="text-center">
-          Here is some projects i have done in various programming language.
+          Here are some projects i have done in various programming language.
           <h3>
             Numerous additional projects are kept private due to their sensitive
             nature.
