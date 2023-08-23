@@ -5,7 +5,7 @@ import AboutMe from "./AboutMe";
 import Portifolio from "./Portifolio";
 import Contact from "./Contact";
 import Menuu from "./Menuu";
-import Controls from "./Control";
+
 
 function App() {
   return (
