@@ -27,15 +27,7 @@ const Contact = () => {
                 <FontAwesomeIcon icon={faWhatsapp} />
                 +250 783 684 145
               </ListGroup.Item>
-              <ListGroup.Item>
-                <FontAwesomeIcon icon={faGlobe} />
-                In any of these languages below:
-              </ListGroup.Item>
-              <ListGroup.Item>English</ListGroup.Item>
-              <ListGroup.Item>French</ListGroup.Item>
-              <ListGroup.Item>Swahili</ListGroup.Item>
-              <ListGroup.Item>Kinyarwanda</ListGroup.Item>
-            </ListGroup>
+            
           </Card>
         </Col>
       </Row>
