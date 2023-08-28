@@ -27,7 +27,6 @@ const Contact = () => {
                 <FontAwesomeIcon icon={faWhatsapp} />
                 +250 783 684 145
               </ListGroup.Item>
-            
           </Card>
         </Col>
       </Row>
